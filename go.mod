@@ -1,4 +1,4 @@
-module syhgo/benvconfig
+module github.com/foursking/benvconfig
 
 go 1.14
 
