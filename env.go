@@ -1,5 +1,6 @@
 package benvconfig
 
+
 import (
 	"bufio"
 	"errors"
@@ -351,3 +352,5 @@ func (s *env) GetBool(key string, backup bool) bool {
 	}
 	return backup
 }
+
+
